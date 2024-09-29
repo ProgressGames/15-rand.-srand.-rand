@@ -1,7 +1,6 @@
 #include <iostream>
 #include <ctime>
 using namespace std;
-// Генератор случ. чисел
 
 int main() {
     int const SIZE = 10;
