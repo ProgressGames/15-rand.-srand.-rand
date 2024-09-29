@@ -1,4 +1,4 @@
-# Rand Scrand 
+# Rand Srand 
 
 ```markdown
 # Введение в генератор случайных чисел в C++
